@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aditya-9997
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityapatil9997@gmail.com
 
 <!---
