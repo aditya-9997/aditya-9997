@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya-9997
+- 👋 Hi, I’m Aditya Patil
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning UI/UX
 - 📫 How to reach me adityapatil9997@gmail.com
